@@ -69,15 +69,17 @@ DerivedDataCache/*
 */DerivedDataCache/
 */Intermediate/
 */Saved/
+*StarterContent/
+*AnimStarterPack/
 
 
 
 # Visual Studio Generated Files
 #==============================
 *vc.db
-TankExploders.VC.VC.opendb
+.VC.VC.opendb
 .vs/
-*.vs/TankExploders/v14/.suo
+*/v14/.suo
 *.suo
 
 *.ipch
